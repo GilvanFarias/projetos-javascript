@@ -1,3 +1,3 @@
-# projetos-javascript
-### aqui estão alguns projetos jascript que desenvolvo.
+# Projetos-JavaScript
+### Aqui estão alguns projetos javaScript que desenvolve.
 #### Urna Eletrônica  
