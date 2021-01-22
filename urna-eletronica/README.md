@@ -1,4 +1,4 @@
-<h2 align="center">Nome do Projeto</h2>
+<h2 align="center">Urna Eletrônica</h2>
  HTML <br/>
  CSS <br/>
  JavaScript <br/>
