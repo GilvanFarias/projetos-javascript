@@ -5,7 +5,8 @@
 }
 
 body{
-margin: 0;
+margin: auto;
+padding: 10%;
 display: flex;
 justify-content: center;
 align-items: center;
